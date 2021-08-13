@@ -73,14 +73,16 @@ Luego de leer esta breve introducción, debes contestar esta guía:
 
 1. ¿Cuál es tu nombre?
 
-R:
+R: yanira Quintanilla
 
 2. ¿Cuál es la diferencia entre R y RStudio?
 
 
-R:
+R: R es un lenguaje que permite el uso de tecnicas estadisticas, facilitando la manipulacion y almacenaje de los datos. RStudio es sofware que integra los codigos/ legunaje R
 
-3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
+3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto? 
+
+R: Push
 
 4. Crea un .Rproject llamado 00-tarea.Rproject
 
